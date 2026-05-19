@@ -1,0 +1,16 @@
+# UI & Web Framework
+streamlit>=1.24.0
+
+# AI & LLM
+google-generativeai>=0.4.0
+
+# Data Science & Analytics
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Vector Database (Hafıza)
+faiss-cpu>=1.7.4
+
+# Environment & Config
+python-dotenv>=1.0.0
+typing-extensions>=4.5.0
